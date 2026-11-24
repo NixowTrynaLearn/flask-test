@@ -1,0 +1,7 @@
+keys/
+deployments/
+state.json
+*.tfstate*
+.terraform/
+backend/venv/
+terraform.tfvars*
